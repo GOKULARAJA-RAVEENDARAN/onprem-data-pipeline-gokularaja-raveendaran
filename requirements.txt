@@ -1,0 +1,10 @@
+pyspark==3.3.2
+boto3
+python-dotenv
+
+kafka-python
+requests
+mysql-connector-python
+sqlalchemy
+Faker
+pandas
